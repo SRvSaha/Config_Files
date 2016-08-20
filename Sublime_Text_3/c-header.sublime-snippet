@@ -9,6 +9,9 @@
 *
 */
 #include <stdio.h>
+#define CIN(n) scanf("%d",&n);
+#define COUT(n) printf("%d\n",n);
+
 int main()
 {
     return 0;
