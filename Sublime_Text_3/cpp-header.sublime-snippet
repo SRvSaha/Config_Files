@@ -50,8 +50,11 @@ using namespace std;
 
 int main()
 {
+    //BEGIN_CLOCK
     //FR
     //FW
+    //END_CLOCK
+    //PRINT_CLOCK
     return 0;
 }
 ]]></content>
