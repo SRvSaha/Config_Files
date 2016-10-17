@@ -25,6 +25,7 @@
 #include <algorithm>
 #include <utility>
 #include <fstream>
+#include <sstream>
 
 #define FR freopen("input.txt", "r", stdin);
 #define FW freopen("output.txt", "w", stdout);
