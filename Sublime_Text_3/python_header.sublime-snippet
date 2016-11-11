@@ -1,14 +1,12 @@
 <snippet>
 	<content><![CDATA[
-#!/bin/python3
+#
+#   @author      : SRvSaha
+#   Filename     : $TM_FILENAME
+#   Timestamp    : $1
+#   Description  : $2
+#
 
-#
-#   @author        : SRvSaha
-#   Filename       : $TM_FILENAME
-#   Timestamp      : 
-#   Description    :
-#   Requirement(s) :
-#
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 <tabTrigger>py</tabTrigger>

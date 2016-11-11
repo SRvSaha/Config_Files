@@ -3,17 +3,25 @@
 /*
 *   @author      : SRvSaha
 *   Filename     : $TM_FILENAME
-*   Timestamp    :
-*   Description  :
-*   Link         :
+*   Timestamp    : $1
+*   Description  : $2
+*   Link         : $3
 *
 */
+
 #include <stdio.h>
+#include <math.h>
 #define CIN(n) scanf("%d",&n);
 #define COUT(n) printf("%d\n",n);
+#define log(x) log10(x)/log10(2)
+
 
 int main()
-{
+{   ${4:
+    int T=0;
+    while(T--){
+        $5
+    \}}
     return 0;
 }
 ]]></content>
