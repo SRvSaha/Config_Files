@@ -3,12 +3,20 @@
 /*
 *   @author      : SRvSaha
 *   Filename     : $TM_FILENAME
+<<<<<<< HEAD
 *   Timestamp    : $1
 *   Description  : $2
 *   Link         : $3
 *
 */
 
+=======
+*   Timestamp    :
+*   Description  :
+*   Link         :
+*
+*/
+>>>>>>> f8d65a5606d7eeb93ea5bf48a464e83114d8fa55
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
@@ -57,10 +65,13 @@ int main()
     //FW
     //END_CLOCK
     //PRINT_CLOCK
+<<<<<<< HEAD
     ${4:int T=0;
     while(T--){
         $5
     \}}
+=======
+>>>>>>> f8d65a5606d7eeb93ea5bf48a464e83114d8fa55
     return 0;
 }
 ]]></content>
