@@ -7,6 +7,9 @@
 #   Description  : $2
 #
 
+#! /usr/bin/env python
+
+$3
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 <tabTrigger>py</tabTrigger>
